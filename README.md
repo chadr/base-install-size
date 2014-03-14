@@ -9,7 +9,7 @@ Microsoft Operating Systems by Base Install Size
 - Release date is for base operating system version--not service packs.
 
 Operating System  | Base Install Size | Release Date |
------------------ |:-----------------:|------------|
+----------------- |:-----------------:|:------------:|
 Dos 3.3 | 698 KB | 1987
 Dos 5.0 | 2.1 MB | 1991
 Dos 6.22 | 5.9 MB | 1994
